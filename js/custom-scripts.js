@@ -1,7 +1,6 @@
 $(document).ready(function () {
   'use strict';
 
-  //===== Width =====//
   var width = window.innerWidth;
 
   //===== Menu Active =====//
